@@ -1,6 +1,3 @@
 today sunday 
-hellow 
-hy
-hi
-hlo
-guysss
+hellow
+echo "This is work from feature1 branch"
