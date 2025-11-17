@@ -1,0 +1,21 @@
+SIMPLE ROADMAP SUMMARY (Manglish)
+
+Repo create
+
+Push code
+
+Pull code
+
+Clone projects
+
+Branch & Merge
+
+Pull Request (PR)
+
+Issues
+
+GitHub Actions (CI/CD)
+
+GitHub Pages (Website host)
+
+Security settings
